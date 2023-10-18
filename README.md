@@ -1,2 +1,8 @@
 # project1
-toy store
+# toystore
+## list of toys
+* bat
+* ball
+* lego
+* pop it
+  
